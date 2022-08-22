@@ -38,13 +38,11 @@ To get a local copy up and running follow these simple example steps.
 
 - Run and see any changes made using the chrome browser
 
-## Authors
+## Author 👤
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/inspecta)
-- Twitter: [@twitterhandle](https://twitter.com/inspdeks)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/derrick-mulinde)
+- GitHub: [@inspecta](https://github.com/inspecta)
+- Twitter: [@inspdeks](https://twitter.com/inspdeks)
+- LinkedIn: [derrick-mulinde](https://linkedin.com/in/derrick-mulinde)
 
 ## 🤝 Contributing
 
