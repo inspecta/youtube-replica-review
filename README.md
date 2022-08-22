@@ -1,62 +1,55 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Youtube Replica Code Review
 
-> Description the project.
-
+> A Youtube Replica is a web page that I designed during my trials at Microverse and it's only one page. It includes a navigation bar and main content only. The navigation bar consists of a logo and other important links. Main contect section contains a video playing at the centre with details about the video below it (Description, Author's channel, number of views, likes and dislikes). The right hand side bar of the page contains thumbnails of other videos.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages - HTML and CSS
+- Frameworks - Bootstrap
+- Technologies used - VS Code, Git and Github
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://inspecta.github.io/YoutubeReplica/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- A working Laptop or Mac, Text editor (VS Code), Git, Chrome browser and Linters
+
 ### Setup
+
+- Get the project repo [here](<(https://inspecta.github.io/YoutubeReplica/)>)
 
 ### Install
 
+- While in the project repo, go to Code tab, copy the HTTPS , SSH or Github CLI url to clone the project onto your local machine
+
 ### Usage
+
+- Open the project in VS Code
 
 ### Run tests
 
-### Deployment
-
-
+- Run and see any changes made using the chrome browser
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/inspecta)
+- Twitter: [@twitterhandle](https://twitter.com/inspdeks)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/derrick-mulinde)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Reach me at djmulinde@gmail.com for now.
 
 ## Show your support
 
@@ -64,9 +57,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- A big thank you to Microverse.
 
 ## 📝 License
 
